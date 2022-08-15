@@ -149,7 +149,7 @@ src-link mypackages /home/buildbot/mypackages
 ```bash
 $ cd source/
 ./script/feeds update mypackages
-./script/install -a -p mypackages
+./script/feeds install -a -p mypackages
 ```
 
 
